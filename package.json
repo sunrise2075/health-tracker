@@ -21,5 +21,22 @@
   "bugs": {
     "url": "https://github.com/sunrise2075/health-tracker/issues"
   },
-  "homepage": "https://github.com/sunrise2075/health-tracker#readme"
+  "homepage": "https://github.com/sunrise2075/health-tracker#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-csslint": "^1.0.0",
+    "gulp-image": "^2.7.5",
+    "gulp-jshint": "^2.0.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.1.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "rimraf": "^2.6.1"
+  }
 }
