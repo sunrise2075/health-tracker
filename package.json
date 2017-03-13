@@ -1,0 +1,25 @@
+{
+  "name": "health-tracker",
+  "version": "1.0.0",
+  "description": "udacity front end nano-degree prohram\u001b[D\u001b[D\u001b[D\u001b[D\u001b[g\u001b[C\u001b[C\u001b[C\u001b[Cproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrise2075/health-tracker.git"
+  },
+  "keywords": [
+    "health",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C",
+    "\u001b[Dudacity",
+    "health-tracker"
+  ],
+  "author": "sunrise2075",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrise2075/health-tracker/issues"
+  },
+  "homepage": "https://github.com/sunrise2075/health-tracker#readme"
+}
