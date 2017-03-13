@@ -19,9 +19,9 @@ bower install bootstrap
 ## install gulp package
 
 ```  
-      npm install --save-dev gulp gulp-uglify jshint gulp-jshint gulp-dest gulp-concat gulp-sourcemaps gulp-clean
+  npm install --save-dev gulp gulp-uglify jshint gulp-jshint gulp-dest gulp-concat gulp-sourcemaps gulp-clean
      
-     npm install --save-dev gulp-plumber gulp-connect jshint-stylish gulp-csslint rimraf gulp-clean-css gulp-image`
+  npm install --save-dev gulp-plumber gulp-connect jshint-stylish gulp-csslint rimraf gulp-clean-css gulp-image
 ```
 
 ## start gulp server in dev mode
